@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm M Farhan Ur Rasool</h1>
-<h3 align="center">Python Programmers </h3>
+<h3 align="center">Python Programmer </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=farhanjutt23&label=Profile%20views&color=0e75b6&style=flat" alt="farhanjutt23" /> </p>
 
 - 🌱 I’m currently learning **Python**
 
-- 💬 Ask me about **python,C,C++**
+- 💬 Ask me about **python,C,C++,HTML,CSS**
 
 - 📫 How to reach me **farhanrasoolXX@gmail.com**
 
-- ⚡ Fun fact **I think i am not funny**
+- ⚡ Fun fact **I think i am funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
