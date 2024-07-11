@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **python,C,C++,HTML,CSS**
 
-- 📫 How to reach me **farhanrasoolXX@gmail.com**
+- 📫 How to reach me **farhanrasoolxx@gmail.com**
 
 - ⚡ Fun fact **I think i am funny**
 
