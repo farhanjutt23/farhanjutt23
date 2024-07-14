@@ -1,7 +1,7 @@
  <h1>M Farhan Ur Rasool</h1>
   <h2> 💫 About me</h2>
  <br>
-🌱 I’m currently learning Python<br><br>💬 Ask me about python,C,C++,HTML,CSS<br><br>📫 How to reach me farhanrasoolxx@gmail.com<br><br>⚡ Fun fact I think i am funny
+🌱 I’m currently learning Python<br><br>💬 Ask me about python,C,C++,HTML,CSS<br><br>📫 How to reach me <a herf"farhanrasoolxx@gmail.com">farhanrasoolxx@gmail.com</a> <br><br>⚡ Fun fact I think i am funny
 
 
 ## 🌐 Socials:
