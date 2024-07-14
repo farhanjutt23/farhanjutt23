@@ -1,3 +1,4 @@
+ <h1>M Farhan Ur Rasool</h1>
 # 💫 About Me:
 🌱 I’m currently learning Python<br><br>💬 Ask me about python,C,C++,HTML,CSS<br><br>📫 How to reach me farhanrasoolxx@gmail.com<br><br>⚡ Fun fact I think i am funny
 
@@ -21,7 +22,7 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=farhanjutt23&icon=0&color=0)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
+  ## 💰I will do it 
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/fanijutt) 
 
   
