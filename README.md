@@ -1,5 +1,5 @@
  <h1>M Farhan Ur Rasool</h1>
-# 💫 About Me:
+ 💫 About Me:
 🌱 I’m currently learning Python<br><br>💬 Ask me about python,C,C++,HTML,CSS<br><br>📫 How to reach me farhanrasoolxx@gmail.com<br><br>⚡ Fun fact I think i am funny
 
 
