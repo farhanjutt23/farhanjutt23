@@ -2,7 +2,7 @@
  <h3>Python Developer </h3>
   <h2> 💫 About me</h2>
  <br>
-🌱 I’m currently learning Python<br><br>💬 Ask me about python,C,C++,HTML,CSS<br><br>📫 How to reach me    <a href="farhanrasool@gmail.com">farhanrasoolxx@gmail.com</a> <br><br>⚡ Fun fact I think i am funny <br><br> 😊 Never trust on anybody 
+🌱 I’m currently learning Python<br><br>💬 Ask me about python,C,C++,HTML,CSS<br><br>📫 How to reach me    <a href="farhanrasool@gmail.com">farhanrasoolxx@gmail.com</a> <br><br>⚡ Fun fact I think i am funny <br><br> 😊 Never trust on anybody <br> <br> 😄 Happy Learning
 
 
 ## 🌐 Socials:
