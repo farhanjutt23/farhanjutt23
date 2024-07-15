@@ -1,4 +1,4 @@
- <h1> Hi 👋, I'm M Farhan Ur Rasool</h1>
+ <h1> Hi 👋, I'm Muhammed Farhan Ur Rasool</h1>
  <h3>Python Developer </h3>
   <h2> 💫 About me</h2>
  <br>
