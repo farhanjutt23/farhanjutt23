@@ -3,7 +3,7 @@
   <h2> 💫About me</h2>
  <br>
 🌱 I’m currently learning Python<br><br>💬 Ask me about python,C,C++,HTML,CSS<br><br>📫 How to reach me    <a href="farhanrasool@gmail.com">farhanrasoolxx@gmail.com</a> <br><br>⚡ Fun fact I think i am funny <br><br> 👨‍💻 All of my projects are available at https://github.com/farhanjutt23 <br> <br>
-😊 Stay focused <br> <br> 😄 Happy Learning.
+😊 Stay focused <br> <br> 😄 Happy Learning...
 
 
 ## 🌐 Socials:
