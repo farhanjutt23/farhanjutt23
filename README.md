@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **python.**
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Python.**
 
 - 💬 Ask me about **python,C,C++.**
 
