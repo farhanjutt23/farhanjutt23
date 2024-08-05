@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **farhanrasoolXX@gmail.com**
 
-- ⚡ Fun fact **I think i am not funny**
+- ⚡ Fun fact **I think i am not funny**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
