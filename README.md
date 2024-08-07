@@ -26,6 +26,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=farhanjutt23&show_icons=true&locale=en" alt="farhanjutt23" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=farhanjutt23&" alt="farhanjutt23" /></p>
+
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
