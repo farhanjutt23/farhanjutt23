@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Leetcode**
 
-- 📝 I regularly write articles on [https://www.linkedin.com/in/farhan-ur-rasool-%F0%9F%8E%97](https://www.linkedin.com/in/farhan-ur-rasool-%F0%9F%8E%97)
+- 📝 I regularly post on [https://www.linkedin.com/in/farhan-ur-rasool-%F0%9F%8E%97](https://www.linkedin.com/in/farhan-ur-rasool-%F0%9F%8E%97)
 
 - 💬 Ask me about **python,javascript and C++**
 
