@@ -5,15 +5,15 @@
 
 - 🔭 I’m currently working on [Django Framework](https://www.linkedin.com/posts/farhan-ur-rasool-%F0%9F%8E%97%EF%B8%8F-527bb4263_django-webdevelopment-python-activity-7228404672045154304-TSD7?utm_source=share&utm_medium=member_desktop)
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning **Django**.
 
-- 👯 I’m looking to collaborate on **Leetcode**
+- 👯 I’m looking to collaborate on **Leetcode**.
 
 - 📝 I regularly post on [https://www.linkedin.com/in/farhan-ur-rasool-%F0%9F%8E%97](https://www.linkedin.com/in/farhan-ur-rasool-%F0%9F%8E%97)
 
-- 💬 Ask me about **python,javascript and C++**
+- 💬 Ask me about **python,javascript and C++**.
 
-- 📫 How to reach me **farhanrasoolxx@gmail.com**
+- 📫 How to reach me **farhanrasoolxx@gmail.com**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
