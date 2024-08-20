@@ -70,13 +70,13 @@
 
 ### 🎨 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=farhanjutt23&show_icons=true&locale=en&layout=compact" alt="farhanjutt23" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=farhanjutt23&show_icons=true&locale=en&layout=compact&theme=dark" alt="farhanjutt23" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=farhanjutt23&show_icons=true&locale=en" alt="farhanjutt23" />
+  <img src="https://github-readme-stats.vercel.app/api?username=farhanjutt23&show_icons=true&locale=en&theme=dark" alt="farhanjutt23" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=farhanjutt23&" alt="farhanjutt23" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=farhanjutt23&theme=dark" alt="farhanjutt23" />
 </p>
 
 ---
