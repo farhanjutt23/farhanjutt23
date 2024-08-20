@@ -67,8 +67,8 @@
 ---
 
 ### 🌟Latest Projects
-- **[FoodieXpress](https://www.example.com/foodiexpress)**: A web design project showcasing a restaurant's menu with a modern, responsive design.
-- **[Simple Django Resume](https://www.example.com/django-resume)**: A personal resume website built with Django, HTML, CSS, and Bootstrap.
+- **FoodieXpress**: A web design project showcasing a restaurant's menu with a modern, responsive design.
+- **Simple Django Resume**: A personal resume website built with Django, HTML, CSS, and Bootstrap.
 
 ---
 
