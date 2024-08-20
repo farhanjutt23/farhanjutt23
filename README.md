@@ -66,15 +66,15 @@
 
 ---
 
-### 🌟 Projects
+### 🌟Latest Projects
 - **[FoodieXpress](https://www.example.com/foodiexpress)**: A web design project showcasing a restaurant's menu with a modern, responsive design.
 - **[Simple Django Resume](https://www.example.com/django-resume)**: A personal resume website built with Django, HTML, CSS, and Bootstrap.
 
 ---
 
 ### 🏆 Achievements
-- Completed **Django Masterclass** on Udemy with a distinction.
-- **Top 5%** in recent LeetCode contest.
+- Completed **Django Masterclass** on Geeky shows with a distinction.
+
 - Contributed to **Open Source Projects** on GitHub, including bug fixes and feature enhancements.
 
 ---
