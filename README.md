@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=farhanjutt23&label=Profile%20views&color=0e75b6&style=flat" alt="farhanjutt23" /> </p>
 
-- 🔭 I’m currently working on [Django Framework](https://www.linkedin.com/posts/farhan-ur-rasool-%F0%9F%8E%97%EF%B8%8F-527bb4263_django-webdevelopment-python-activity-7228404672045154304-TSD7?utm_source=share&utm_medium=member_desktop)
+- 🔭 I’m currently working on [Django Framework](https://www.linkedin.com/posts/farhan-ur-rasool-%F0%9F%8E%97%EF%B8%8F-527bb4263_django-webdevelopment-python-activity-7228404672045154304-TSD7?utm_source=share&utm_medium=member_desktop).
 
 - 🌱 I’m currently learning **Django**.
 
