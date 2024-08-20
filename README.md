@@ -3,9 +3,6 @@
 
 
 
-<p align="center">
-  <img src="https://your-image-url.com/programming-image.png" alt="Programming" width="600" height="300" />
-</p>
 
 ---
 
