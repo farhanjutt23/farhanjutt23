@@ -10,8 +10,8 @@
 - 📝 I regularly share insights on [LinkedIn](https://www.linkedin.com/in/farhan-ur-rasool-%F0%9F%8E%97).
 - 💬 Feel free to ask me about **Python, JavaScript, and C++**.
 - 📫 You can reach me at **farhanrasoolxx@gmail.com**.
-- 🌐 Check out my portfolio at **[farhanportfolio.com](https://www.farhanportfolio.com)**.
-- 🎓 I have a strong background in **Data Structures and Algorithms**, which helps me tackle complex problems effectively.
+- 🌐 Check out my portfolio at **[farhanportfolio.com](httpPros://www.farhanportfolio.com)**.
+- 🎓 I have a strong background in **Python**
 
 ---
 
