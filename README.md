@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm M Farhan Ur Rasool</h1>
 <h3 align="center">Backend Developer | Python Enthusiast | Django Lover</h3>
 
-
-
-
 ---
 
 ### 🌟 About Me
@@ -13,6 +10,8 @@
 - 📝 I regularly share insights on [LinkedIn](https://www.linkedin.com/in/farhan-ur-rasool-%F0%9F%8E%97).
 - 💬 Feel free to ask me about **Python, JavaScript, and C++**.
 - 📫 You can reach me at **farhanrasoolxx@gmail.com**.
+- 🌐 Check out my portfolio at **[farhanportfolio.com](https://www.farhanportfolio.com)**.
+- 🎓 I have a strong background in **Data Structures and Algorithms**, which helps me tackle complex problems effectively.
 
 ---
 
@@ -64,6 +63,19 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
   </a>
 </p>
+
+---
+
+### 🌟 Projects
+- **[FoodieXpress](https://www.example.com/foodiexpress)**: A web design project showcasing a restaurant's menu with a modern, responsive design.
+- **[Simple Django Resume](https://www.example.com/django-resume)**: A personal resume website built with Django, HTML, CSS, and Bootstrap.
+
+---
+
+### 🏆 Achievements
+- Completed **Django Masterclass** on Udemy with a distinction.
+- **Top 5%** in recent LeetCode contest.
+- Contributed to **Open Source Projects** on GitHub, including bug fixes and feature enhancements.
 
 ---
 
