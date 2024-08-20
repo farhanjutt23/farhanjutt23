@@ -5,6 +5,10 @@
   <img src="https://komarev.com/ghpvc/?username=farhanjutt23&label=Profile%20views&color=0e75b6&style=flat" alt="farhanjutt23" />
 </p>
 
+<p align="center">
+  <img src="https://your-image-url.com/programming-image.png" alt="Programming" width="600" height="300" />
+</p>
+
 ---
 
 ### 🌟 About Me
