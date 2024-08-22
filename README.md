@@ -72,10 +72,14 @@
 
 ---
 
-### 🏆 Achievements
-- Completed **Django Masterclass** on Geeky shows with a distinction.
 
+
+### 🏆 Achievements
+- Completed **Django Masterclass** on Geeky Shows with distinction.
 - Contributed to **Open Source Projects** on GitHub, including bug fixes and feature enhancements.
+- Earned a **Certificate from DataCamp** as a Python Developer, showcasing proficiency in Python programming and data analysis.
+
+
 
 ---
 
