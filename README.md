@@ -68,12 +68,17 @@
 
 
 
+
+
 ### 🌟 Latest Projects
 - **FoodieXpress**: A web design project showcasing a restaurant's menu with a modern, responsive design.
 - **Simple Django Resume**: A personal resume website built with Django, HTML, CSS, and Bootstrap.
 - **Travel Website**: Developed a comprehensive travel website featuring destination guides, booking options, and user reviews, all with a sleek, responsive design.
 - **Personal Website**: Created a portfolio website to showcase my projects, skills, and achievements, with a focus on clean design and user experience.
 - **Ongoing Django Projects**: Currently working on various Django projects, focusing on creating dynamic web applications with robust back-end functionality.
+- **Python Snake Game**: Developed a classic snake game using Python, implementing game mechanics, scoring, and levels of difficulty.
+- **Water Snake Game**: Created a unique version of the snake game, themed around water environments, with special challenges and power-ups.
+
 
 
 ---
