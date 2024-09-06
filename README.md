@@ -94,7 +94,7 @@
 
 ---
 
-### 🎨 GitHub Stats
+### 🎨 GitHub. Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=farhanjutt23&show_icons=true&locale=en&layout=compact&theme=dark" alt="farhanjutt23" />
 </p>
