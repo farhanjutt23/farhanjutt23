@@ -94,22 +94,3 @@
 
 ---
 
-### 🎨 GitHub. Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=farhanjutt23&show_icons=true&locale=en&layout=compact&theme=dark" alt="farhanjutt23" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=farhanjutt23&show_icons=true&locale=en&theme=dark" alt="farhanjutt23" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=farhanjutt23&theme=dark" alt="farhanjutt23" />
-</p>
-
----
-
-### ☕ Support Me
-<p>
-  <a href="https://www.buymeacoffee.com/farhanjutt23">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy me a coffee" />
-  </a>
-</p>
